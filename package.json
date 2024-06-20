@@ -1,0 +1,23 @@
+{
+  "name": "homeworknode",
+  "version": "1.0.0",
+  "description": "node js homework practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.html",
+    "serve": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlaVasylieva7/homework-node.git"
+  },
+  "author": "Oleksandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlaVasylieva7/homework-node/issues"
+  },
+  "homepage": "https://github.com/OlaVasylieva7/homework-node#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
